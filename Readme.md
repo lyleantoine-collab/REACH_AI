@@ -9,4 +9,5 @@ Turning AI waste (heat, exhaust, water) into wins via oil/gas retrofits.
 
 ## Next: P&ID sketches incoming.
 
+Inspired by oil rigs, made for nerds who hate sweat.
 KISS: Build modular, scale to Colossus.
