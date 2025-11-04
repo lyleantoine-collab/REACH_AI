@@ -11,7 +11,7 @@
 
 **KISS Install**: `python docs/sims/sim_power.py`—plug your cluster numbers, see payback <2yrs. Modular, NEC-safe, scales infinite.
 
-Inspired by rigs, built for nerds who hate sweat. Fork/test/pilot: [@yourXhandle] or lyle@reachai.dev. #AIinfra #GreenAI #xAI
+Inspired by rigs, built for nerds who hate sweat. Fork/test/pilot: lyleantoine@gmail.com. #AIinfra #GreenAI #xAI
 
 ---
 *Total baseline ROI: ~$95k/yr per hall. No risk—sims don't lie. DM for rack test.*
